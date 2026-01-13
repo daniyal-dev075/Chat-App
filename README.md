@@ -61,35 +61,17 @@ lib/
 ---
 ## 📸 Screenshots
 
-### Landing Screen
-![Landing Screen](screenshots/landing_screen.png)
-
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
-
-### Chat Screen
-![Chat Screen](screenshots/chat_screen.png)
-
-### Error / Loader Screen
-![Error Screen](screenshots/error_screen.png)
-
-### Landing Screen
-![Landing Screen](screenshots/landing_screen.png)
-
-### Home Screen
-![Home Screen](screenshots/home_screen.png)
-
-### Chat Screen
-![Chat Screen](screenshots/chat_screen.png)
-
-### Error / Loader Screen
-![Error Screen](screenshots/error_screen.png)
-
+| | | |
+|---|---|---|
+| ![Landing View](ScreenShots/Landing_view.jpg) | ![Landing View](ScreenShots/Landing_view.jpg) | ![Chat Screen](ScreenShots/Chat_View.jpg) |
+| ![Loader](ScreenShots/Loader.jpg) | ![Contacts List Screen](ScreenShots/Contacts_List.jpg) | ![Country Picker Screen](ScreenShots/Country_Picker_View.jpg) |
+| ![Login View Screen 1](ScreenShots/Login_View.jpg) | ![Login View Screen 2](ScreenShots/Login_View_2.jpg) | ![OTP Screen](ScreenShots/OTP_View.jpg) |
+| ![User Info Screen 1](ScreenShots/User_Info_View.jpg) | ![User Info Screen 1](ScreenShots/User_Info_View_2.jpg) |
 ---
 ## 📽️ Demo Videos
 
-**🔹 Demo 1: App Overview**  
-[Watch Demo 1](https://drive.google.com/file/d/1cEcNinRtrXqPLwu6OreSOEt4IC8BCc8d/view?usp=drivesdk)
+**🔹 Demo : Real Time Chat Demo Video**  
+[Watch  Demo](https://drive.google.com/file/d/1HaMQNKpNcdzUQeqR0ULScyj2XZHQZfk6/view?usp=drivesdk)
 
 ## 🔧 Setup Instructions
 
