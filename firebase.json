@@ -1,0 +1,41 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "whatsapp-clone-2594e",
+          "appId": "1:280029462774:android:7bdd22e35736345ab36cd7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "whatsapp-clone-2594e",
+          "configurations": {
+            "android": "1:280029462774:android:7bdd22e35736345ab36cd7",
+            "web": "1:280029462774:web:33b5344196e2f444b36cd7",
+            "windows": "1:280029462774:web:5af6518de1fdc6a2b36cd7"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "runtime": "nodejs18",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": [
+        "npm --prefix ./functions run lint",
+        "npm --prefix ./functions run build"
+      ]
+    }
+  ]
+}
